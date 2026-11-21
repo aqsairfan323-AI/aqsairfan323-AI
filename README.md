@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aqsairfan323-AI)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Resume](https://docs.google.com/document/d/1pm7Bl6o0pzQvsy6hPXJIxAswK4Ad1FSJrye9B7EzRkw/edit?pli=1&tab=t.0)]
+[![View My Resume](https://img.shields.io/badge/View%20My%20Resume-2563EB?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1pm7Bl6o0pzQvsy6hPXJIxAswK4Ad1FSJrye9B7EzRkw/edit?pli=1&tab=t.0)
 
 </div>
 
@@ -39,7 +39,19 @@ I'm **Aqsa Irfan**, an AI Product Management professional with a multidisciplina
   <img src="https://img.shields.io/badge/Lovable-7C3AED?style=flat-square&logoColor=white" alt="Lovable" />
   <img src="https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=050038" alt="Miro" />
   <img src="https://img.shields.io/badge/Generative%20AI-0F766E?style=flat-square" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/ElevenLabs-111111?style=flat-square&logoColor=white" alt="ElevenLabs" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Teachable%20Machine-34A853?style=flat-square&logo=google&logoColor=white" alt="Teachable Machine" />
+  <img src="https://img.shields.io/badge/Visily-5B5FEF?style=flat-square&logoColor=white" alt="Visily" />
 </p>
+
+### AI Capabilities
+
+- **Speech AI:** voice generation, speech-to-text, audio transcription, and voice analysis.
+- **Vision AI:** image recognition, visual understanding, and image-based AI workflows.
+- **RAG & AI Agents:** knowledge-grounded chatbots, prompt design, and workflow orchestration.
 
 ## 🚀 Featured Projects
 
@@ -74,7 +86,7 @@ Designed an automated workflow for an online food business using Zapier, with pr
 I'm open to connecting with people working in AI, product management, automation, and emerging technologies.
 
 - **GitHub:** [@aqsairfan323-AI](https://github.com/aqsairfan323-AI)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/)\n- **Resume:** [View My Resume](https://docs.google.com/document/d/1pm7Bl6o0pzQvsy6hPXJIxAswK4Ad1FSJrye9B7EzRkw/edit?pli=1&tab=t.0)
 
 <div align="center">
 
