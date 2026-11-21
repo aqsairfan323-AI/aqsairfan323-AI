@@ -8,6 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aqsairfan323-AI)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Resume](https://docs.google.com/document/d/1pm7Bl6o0pzQvsy6hPXJIxAswK4Ad1FSJrye9B7EzRkw/edit?pli=1&tab=t.0)]
 
 </div>
 
